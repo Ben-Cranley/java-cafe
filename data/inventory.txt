@@ -1,0 +1,6 @@
+Americano, 3.00, 10
+Espresso, 1.50, 0
+Cappuccino, 3.00, 10
+Flat White, 2.50, 8
+Latte, 3.00, 6
+House Special, 5.00, 3

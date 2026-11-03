@@ -1,0 +1,1 @@
+Purchase Time,Ordered Item,Price,Payment Method,Tendered / Card Type,Change
